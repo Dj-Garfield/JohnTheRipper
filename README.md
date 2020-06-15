@@ -192,6 +192,7 @@ Happy reading!
 
 * cmd utils :
 
-[user]~$ ./hashcat --help | grep -i "KeePass"
+ [user]~$ ./hashcat --help | grep -i "KeePass"
+
 13400 | KeePass 1 (AES/Twofish) and KeePass 2 (AES) | Password Managers
 
