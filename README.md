@@ -185,3 +185,13 @@ There are a lot of additional documentation files in jumbo's "doc"
 directory, which you'll also want to explore.
 
 Happy reading!
+
+--------------------------------------------------------PERSONAL NOTICE :
+* Libs Installed before Compiling :
+
+
+* cmd utils :
+
+[user]~$ ./hashcat --help | grep -i "KeePass"
+13400 | KeePass 1 (AES/Twofish) and KeePass 2 (AES) | Password Managers
+
